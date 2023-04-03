@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'emi';
 
-  public P: number = 10000;
+  public P: number = 100000;
   public r:number = 10.25;
   public n:number = 1;
   public EMI: number =0;
